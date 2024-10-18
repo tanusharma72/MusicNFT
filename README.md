@@ -26,6 +26,13 @@ One of the main benefits of NFT marketplaces is that they provide a secure and t
 
 There are several music-based NFT marketplaces that allow artists and music fans to buy, sell, and trade NFTs related to music. These NFTs can include a wide range of items, such as exclusive tracks, limited edition album artwork, concert tickets, and even virtual meet-and-greets with artists.
 
+
+![Uploading Screenshot (107).png…]()
+![Uploading Screenshot (108).png…]()
+![Uploading Screenshot (109).png…]()
+![Uploading Screenshot (110).png…]()
+![Uploading Screenshot (111).png…]()
+
 **This project is one such example.**
 
 ## Tech Used
