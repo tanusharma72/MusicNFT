@@ -40,7 +40,7 @@ export default function Marketplace() {
         try {
             const response = await fetch('/api/getAllNfts');
             if (!response.ok) {
-                throw new Error('Failed to fetch NFTs');
+                throw new Error('No NFTs Available');
             }
             const data = await response.json();
             // Fetch details from Pinata for each NFT
@@ -61,10 +61,10 @@ export default function Marketplace() {
 
             try {
                 const response = await axios.get(url);
-                console.log('Fetched data for IPFS Hash:', ipfsHash, response.data); // Log the full response data
+                // No need to log the IPFS hash
                 detailsArray.push({ ipfsHash, details: response.data });
             } catch (error) {
-                console.error(`Error fetching data for ${ipfsHash}:`, error.response ? error.response.data : error.message);
+                console.error(`Error fetching data for IPFS hash:`, error.response ? error.response.data : error.message);
                 detailsArray.push({ ipfsHash, details: null });
             }
         }
@@ -80,7 +80,7 @@ export default function Marketplace() {
                     const nftContract = new ethers.Contract(NFT_CONTRACT_ADDRESS, abi, provider);
                     const _marketItems = await nftContract.fetchMarketItems();
                     setMarketItems(_marketItems);
-                    console.log(_marketItems);
+                    console.log(_marketItems); // Optional, you can remove this log as well if needed
                 } catch (error) {
                     console.error('Error fetching market items NFTs: ', error.message);
                 }
