@@ -40,7 +40,7 @@ export default function Marketplace() {
         try {
             const response = await fetch('/api/getAllNfts');
             if (!response.ok) {
-                throw new Error('No NFTs Available');
+                throw new Error('Opps! No NFTs Available');
             }
             const data = await response.json();
             // Fetch details from Pinata for each NFT
