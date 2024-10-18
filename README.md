@@ -11,6 +11,8 @@ The music industry has undergone significant transformation due to digitalizatio
 * Consumers Engagement
 
 Solution:
+
+
 NFT Marketplace Integration: - Seamlessly connect with NFT marketplaces to discover and acquire music NFTs directly within the platform.
 Royalty Tracking: - Utilize smart contracts to automatically track and distribute royalties to artists when NFTs are bought or sold.
 Decentralized Ownership: - Empower users with true ownership of their favorite music through NFTs, ensuring transparency and authenticity.
