@@ -135,7 +135,7 @@ export default function UploadPage() {
               onChange={(e) => setAlbumName(e.target.value)}
               id='album_name'
               className='outline-none bg-gray-50 border border-gray-300 text-white text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500'
-              placeholder='Bit2Byte++'
+              placeholder='Music Album name'
               required
             />
           </div>
@@ -147,7 +147,7 @@ export default function UploadPage() {
               onChange={(e) => setCreatorName(e.target.value)}
               id='creator-name'
               className='outline-none bg-gray-50 border border-gray-300 text-white text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500'
-              placeholder='Hawkeye'
+              placeholder='Music Creator name'
               required
             />
           </div>
