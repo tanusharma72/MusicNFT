@@ -1,6 +1,15 @@
 # Music NFT Marketplace
 
-**Checkout website: [Link](https://music-nfts-ruby.vercel.app/)**
+**Checkout website: [Link](https://nft-marketplace-eight-eta.vercel.app/)**
+
+Problem Statement :
+
+The music industry has undergone significant transformation due to digitalization, yet many artists continue to struggle with fair compensation and ownership of their work. Traditional streaming platforms often offer minimal revenue to artists, leading to financial instability and issues such as:
+
+* Monetization issues
+* Ownership and Copyright Concerns
+* Consumers Engagement
+
 
 NFT marketplaces are online platforms where users can buy, sell, and trade non-fungible tokens (NFTs). NFTs are digital assets that represent ownership of a unique item or piece of content, such as a piece of art, a collectible, or even a tweet. They are stored on a blockchain, which is a decentralized, distributed ledger that ensures the authenticity and scarcity of the NFT.
 
