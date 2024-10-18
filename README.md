@@ -25,13 +25,10 @@ NFT marketplaces are online platforms where users can buy, sell, and trade non-f
 One of the main benefits of NFT marketplaces is that they provide a secure and transparent way for buyers and sellers to transact with each other. Because NFTs are stored on a blockchain, their ownership and authenticity can be easily verified. This makes it easier for buyers to trust that they are getting a genuine item, and for sellers to prove that they are the rightful owners of the NFT.
 
 There are several music-based NFT marketplaces that allow artists and music fans to buy, sell, and trade NFTs related to music. These NFTs can include a wide range of items, such as exclusive tracks, limited edition album artwork, concert tickets, and even virtual meet-and-greets with artists.
+[Uploading Hack india.mp3…]()
 
+![Uploading WhatsApp Image 2024-10-17 at 19.55.32_c52cb6df.jpg…]()
 
-![Uploading Screenshot (107).png…]()
-![Uploading Screenshot (108).png…]()
-![Uploading Screenshot (109).png…]()
-![Uploading Screenshot (110).png…]()
-![Uploading Screenshot (111).png…]()
 
 **This project is one such example.**
 
